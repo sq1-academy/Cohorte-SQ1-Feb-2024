@@ -1,0 +1,19 @@
+.UsbC {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  gap: 16px;
+}
+
+.UsbC-icon {
+  inline-size: 70%;
+  block-size: auto;
+}
+
+.UsbC-title {
+  font-family: "SF Pro Display";
+  font-size: 1rem;
+  font-weight: bolder;
+  color: white;
+}

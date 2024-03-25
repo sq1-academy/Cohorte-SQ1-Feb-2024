@@ -1,0 +1,27 @@
+.ceramic-shield {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+
+    background-image: url('/images/shield-bg.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+.ceramic-shield-title {
+  font-weight: bold;
+  font-size: 1.75rem;
+  text-align: center;
+  line-height: normal;
+}
+
+.ceramic-shield-light {
+    position: absolute;
+    inset-block-start: 0;
+    inset-inline-start: 0;
+    inline-size: 100%;
+    block-size: 100%;
+}

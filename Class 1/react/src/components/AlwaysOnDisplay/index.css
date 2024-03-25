@@ -1,0 +1,16 @@
+.always-on-display {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background-image: url('/images/always-on-display.png');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.always-on-display-text {
+  text-align: center;
+  font-weight: bold;
+  font-size: 2.8rem;
+  line-height: normal;
+}

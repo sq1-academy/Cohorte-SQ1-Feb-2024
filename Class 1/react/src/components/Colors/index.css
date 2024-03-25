@@ -1,0 +1,31 @@
+.colors {
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.colors-img {
+  inline-size: 85%;
+  block-size: auto;
+  margin-inline: auto;
+}
+
+.colors-title {
+  font-family: "SF Pro Display";
+  font-size: 1rem;
+  font-weight: bolder;
+  color: white;
+  text-align: center;
+}
+
+.colors-gradient {
+  background: rgb(0, 0, 0);
+  background: linear-gradient(0deg, rgba(0, 0, 0, 1) 5%, rgba(0, 0, 0, 0) 70%);
+  inline-size: 100%;
+  block-size: 80%;
+  position: absolute;
+  inset-block-end: 0;
+}

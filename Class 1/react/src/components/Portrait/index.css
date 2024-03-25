@@ -1,0 +1,14 @@
+.portrait {
+  background-image: url("/images/portrait.png");
+  background-position: bottom center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.portrait-title {
+  font-family: "SF Pro Display";
+  font-size: 1rem;
+  font-weight: bolder;
+  color: white;
+  text-align: center;
+}

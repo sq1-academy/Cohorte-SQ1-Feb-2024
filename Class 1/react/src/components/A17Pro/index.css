@@ -1,0 +1,11 @@
+.a17-pro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.a17-pro-img {
+    aspect-ratio: 1;
+    inline-size: 80%;
+    block-size: auto;
+} 

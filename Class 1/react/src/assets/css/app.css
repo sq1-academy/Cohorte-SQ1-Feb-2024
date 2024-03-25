@@ -1,0 +1,153 @@
+
+.bento {
+  display: grid;
+  grid-template-columns: repeat(28, 1fr);
+  grid-template-rows: repeat(23, 1fr);
+  gap: 12px;
+  inline-size: 1400px;
+  block-size: 850px;
+  margin: 0 auto;
+}
+
+.bento-main-camera {
+  grid-column-start: 1;
+  grid-column-end: 5;
+
+  grid-row-start: 1;
+  grid-row-end: 11;
+}
+
+.bento-ceramic-sheld {
+  grid-column-start: 5;
+  grid-column-end: 8;
+
+  grid-row-start: 1;
+  grid-row-end: 5;
+}
+
+.bento-main-lens {
+  grid-column-start: 5;
+  grid-column-end: 8;
+
+  grid-row-start: 5;
+  grid-row-end: 11;
+}
+
+.bento-always-on-display {
+  grid-column-start: 1;
+  grid-column-end: 8;
+
+  grid-row-start: 11;
+  grid-row-end: 16;
+}
+
+.bento-all-day-battery {
+  grid-column-start: 1;
+  grid-column-end: 8;
+
+  grid-row-start: 16;
+  grid-row-end: 19;
+}
+
+.bento-telephoto {
+  grid-column-start: 1;
+  grid-column-end: 4;
+  grid-row-start: 19;
+  grid-row-end: 24;
+}
+
+.bento-spacial-audio {
+  grid-column-start: 4;
+  grid-column-end: 8;
+  grid-row-start: 19;
+  grid-row-end: 24;
+}
+
+.bento-a17-pro {
+  grid-column-start: 8;
+  grid-column-end: 12;
+
+  grid-row-start: 1;
+  grid-row-end: 7;
+}
+
+.bento-high-resolution {
+  grid-column-start: 12;
+  grid-column-end: 18;
+
+  grid-row-start: 1;
+  grid-row-end: 7;
+}
+
+.bento-usb-c {
+  grid-column-start: 18;
+  grid-column-end: 22;
+
+  grid-row-start: 1;
+  grid-row-end: 7;
+}
+
+.bento-colors {
+  grid-column-start: 22;
+  grid-column-end: 29;
+
+  grid-row-start: 1;
+  grid-row-end: 7;
+}
+
+.bento-promotion {
+  grid-column-start: 22;
+  grid-column-end: 29;
+
+  grid-row-start: 7;
+  grid-row-end: 10;
+}
+
+.bento-gaming {
+  grid-column-start: 22;
+  grid-column-end: 29;
+
+  grid-row-start: 10;
+  grid-row-end: 15;
+}
+
+.bento-action-button {
+  grid-column-start: 22;
+  grid-column-end: 29;
+
+  grid-row-start: 15;
+  grid-row-end: 24;
+}
+
+.bento-dynamic-island {
+  grid-column-start: 8;
+  grid-column-end: 13;
+  
+  grid-row-start: 19;
+  grid-row-end: 24;
+}
+
+.bento-wifi {
+  grid-column-start: 13;
+  grid-column-end: 16;
+
+  
+  grid-row-start: 19;
+  grid-row-end: 24;
+}
+
+.bento-portrait {
+  grid-column-start: 16;
+  grid-column-end: 22;
+
+  grid-row-start: 19;
+  grid-row-end: 24;
+}
+
+.bento-titanium {
+  grid-column-start: 8;
+  grid-column-end: 22;
+
+  grid-row-start: 7;
+  grid-row-end: 19;
+}

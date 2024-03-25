@@ -1,0 +1,19 @@
+.wifi {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+}
+
+.wifi-icon {
+  inline-size: 80%;
+  block-size: auto;
+}
+
+.wifi-title {
+  font-family: "SF Pro Display";
+  font-size: 1rem;
+  font-weight: bolder;
+  color: white;
+}

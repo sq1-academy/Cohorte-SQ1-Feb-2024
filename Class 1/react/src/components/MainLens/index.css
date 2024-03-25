@@ -1,0 +1,22 @@
+.main-lens {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 16px;
+    padding-block-start: 24px;
+}
+
+.main-lens-icon {
+    inline-size: auto;
+    block-size: 50%;
+    flex: 1;
+}
+
+.main-lens-desc {
+  font-family: "SF Pro Display";
+  font-size: 1rem;
+  font-weight: bolder;
+  color: white;
+  text-align: center;
+}

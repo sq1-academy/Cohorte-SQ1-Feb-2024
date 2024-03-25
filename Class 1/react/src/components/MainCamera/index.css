@@ -1,0 +1,57 @@
+.main-camera {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.main-camera-title {
+  font-family: "SF Pro Display";
+  font-size: 2rem;
+  font-weight: bolder;
+  z-index: 1;
+}
+
+.main-camera-desc {
+  font-family: "SF Pro Display";
+  font-size: 1rem;
+  font-weight: bolder;
+  color: white;
+  z-index: 1;
+}
+
+.main-camera-img-box {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  inline-size: 100%;
+  block-size: 100%;
+  z-index: 0;
+}
+
+.main-camera-gradient {
+  background: rgb(0, 0, 0);
+  background: linear-gradient(0deg, rgba(0, 0, 0, 1) 5%, rgba(0, 0, 0, 0) 90%);
+  inline-size: 100%;
+  block-size: 80%;
+  position: absolute;
+  inset-block-end: 0;
+}
+
+.main-camera-wp {
+  position: relative;
+  block-size: 100%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
+.main-camera-img {
+  inline-size: auto;
+  block-size: 70%;
+  object-fit: cover;
+  margin-inline-end: -20%;
+  margin-block-end: 20%;
+}

@@ -1,0 +1,22 @@
+.ActionButton {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.ActionButton-title {
+  margin-top: 4px;
+  font-family: "SF Pro Display";
+  font-size: 1rem;
+  font-weight: bolder;
+  color: white;
+  text-align: center;
+}
+
+.ActionButton-img {
+  inline-size: 95%;
+  margin-inline-start: auto;
+  margin-inline-end: -8px;
+  margin-bottom: -8px;
+}

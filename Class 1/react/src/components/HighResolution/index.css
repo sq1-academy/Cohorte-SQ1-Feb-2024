@@ -1,0 +1,19 @@
+.HighResolution {
+  background-image: url("/images/high.png");
+  background-position: bottom center;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.HighResolution-title {
+  font-family: "SF Pro Display";
+  font-size: 1rem;
+  font-weight: bolder;
+  color: white;
+  text-align: center;
+}

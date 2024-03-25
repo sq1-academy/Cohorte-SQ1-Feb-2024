@@ -1,0 +1,19 @@
+.spacial-audio {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 1rem;
+}
+
+.spacial-audio-img {
+  inline-size: 95%;
+  block-size: auto;
+}
+
+.spacial-audio-text {
+  font-family: "SF Pro Display";
+  font-size: 1rem;
+  font-weight: bolder;
+  color: white;
+}

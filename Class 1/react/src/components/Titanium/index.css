@@ -1,0 +1,11 @@
+.titanium{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.titanium-img {
+    inline-size: 100%;
+    block-size: auto;
+    margin-right: -8px;
+} 

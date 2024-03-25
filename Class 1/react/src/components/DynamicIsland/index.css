@@ -1,0 +1,23 @@
+.island {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+
+  background-image: url("/images/always-on-display.png");
+  background-position: center right;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.island-img {
+  inline-size: 95%;
+  block-size: auto;
+}
+
+.island-title {
+  font-family: "SF Pro Display";
+  font-size: 1rem;
+  font-weight: bolder;
+  color: white;
+}
