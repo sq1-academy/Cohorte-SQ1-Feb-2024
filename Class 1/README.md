@@ -8,4 +8,5 @@
 **Fecha de entrega**: Día de la clase 6 del módulo de frontend avanzado.
 
 
-[![Bento Grid del iPhone 15]([/assets/images/shiprock.jpg](https://github.com/sq1-academy/Cohorte-SQ1-Feb-2024/blob/Modulo-6/Class%201/Iphone%2015%20Pro.png) "Bento Grid del iPhone 15")](https://github.com/sq1-academy/Cohorte-SQ1-Feb-2024/blob/Modulo-6/Class%201/Iphone%2015%20Pro.png)
+
+![alt text](https://github.com/sq1-academy/Cohorte-SQ1-Feb-2024/blob/Modulo-6/Class%201/Iphone%2015%20Pro.png)
