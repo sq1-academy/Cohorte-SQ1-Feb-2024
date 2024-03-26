@@ -1,7 +1,7 @@
 # Módulo Frontend Avanzado
 El objetivo del módulo avanzado de front-end es reforzar los conocimientos adquiridos en el módulo de interfaces de usuario. Además, se busca introducir las diferencias entre las principales frameworks/librerías de frontend y desarrollar interfaces de usuario utilizando Laravel Blade + Livewire.
 
-## Clase 1
+## [Clase 1](https://github.com/sq1-academy/Cohorte-SQ1-Feb-2024/tree/Modulo-6/Class%201)
 ### Conceptos básicos
 - Componentes
 - Props drilling
