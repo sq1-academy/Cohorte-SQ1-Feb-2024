@@ -9,4 +9,4 @@
 
 
 
-![alt text](https://github.com/sq1-academy/Cohorte-SQ1-Feb-2024/blob/Modulo-6/Class%201/Iphone%2015%20Pro.png)
+![iPhone 15 pro - Bento grid](https://github.com/sq1-academy/Cohorte-SQ1-Feb-2024/blob/Modulo-6/Class%201/Iphone%2015%20Pro.png)
