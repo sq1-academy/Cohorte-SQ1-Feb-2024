@@ -18,7 +18,7 @@ El objetivo del módulo avanzado de front-end es reforzar los conocimientos adqu
 - Vue Js
 - Astro
 
-## Clase 2
+## [Clase 2](https://github.com/sq1-academy/Cohorte-SQ1-Feb-2024/tree/Modulo-6/Class%202)
 ### Motores de plantilla
 - Template engine !== Frameworks
 - Mejores prácticas
