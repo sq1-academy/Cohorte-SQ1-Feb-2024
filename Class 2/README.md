@@ -9,7 +9,10 @@
     - Debe tener un header
     - Debe tener un footer
     - Debe tener un aside que sea una publicidad de 300 x 300 px
-  - Hacer un PR al proyecto, en la carpeta de la clase 2 donde dejen su proyecto.
+    - Debe mostrar un modal de navegación cuando la pantalla es de celular
+    - Los detalles de producto debe tener un boton para gregar el producto al carrito de compras (Lado del cliente)
+    - Debe poder contabilizar el precio total de los productos en el carrito de compras (Lado del cliente)
+  - Hacer un PR al proyecto, en la carpeta de la clase 2 donde dejen su proyecto
 
 
 **Fecha de entrega**: Día de la clase 6 del módulo de frontend avanzado.
