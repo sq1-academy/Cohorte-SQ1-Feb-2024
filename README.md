@@ -20,3 +20,5 @@
 - APIs del navegador
   
 ## Clase 5
+- Funciones asincronas
+- Ejercicio de asincronismo
