@@ -23,7 +23,6 @@ El objetivo del módulo avanzado de front-end es reforzar los conocimientos adqu
 - Template engine !== Frameworks
 - Mejores prácticas
 
-### Asyncronismo
 ### Alpine Js
 
 ## Clase 3
