@@ -6,7 +6,7 @@
 
 ## Clase 3
 
-## Clase 4
+## (Clase 4)[https://github.com/sq1-academy/Cohorte-SQ1-Feb-2024/tree/Modulo-2/Class%204]
 ### Programación básica
 - Scope
 - Variables
