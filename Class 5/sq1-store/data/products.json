@@ -1,89 +1,88 @@
 {
-    "tshirts": [
-      {
-        "id": 1,
-        "name": "Basic Tee",
-        "price": 35,
-        "color": "black",
-        "image": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg"
-      },
-      {
-        "id": 2,
-        "name": "Basic Tee",
-        "price": 40,
-        "color": "white",
-        "image": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-02.jpg"
-      },
-      {
-        "id": 3,
-        "name": "Basic Tee",
-        "price": 55,
-        "color": "gray",
-        "image": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-03.jpg"
-      },
-      {
-        "id": 4,
-        "name": "Basic Tee",
-        "price": 22,
-        "color": "blue",
-        "image": "https://images.pexels.com/photos/8612790/pexels-photo-8612790.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-      },
-      {
-        "id": 5,
-        "name": "Basic Tee",
-        "price": 28,
-        "color": "red",
-        "image": "https://tailwindui.com/img/ecommerce-images/home-page-03-favorite-03.jpg"
-      },
-      {
-        "id": 6,
-        "name": "Basic Tee",
-        "price": 32,
-        "color": "green",
-        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.sportsshoes.com%2Fproduct%2FN%2FNIK9281%2FNIK9281_1000_1.jpg&f=1&nofb=1&ipt=45e9ae8b3b3d70cccd07c8ae6695f74046df0bcf30d06262cda53b15302e0747&ipo=images"
-      },
-      {
-        "id": 7,
-        "name": "Basic Tee",
-        "price": 40,
-        "color": "yellow",
-        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FI%2F41uMrveOBDL._AC_UL1000_.jpg&f=1&nofb=1&ipt=a6f44c749bcaeb8ba8e6f453951205800e687b39bfa85c36aa304f2712bff5c5&ipo=images"
-      },
-      {
-        "id": 8,
-        "name": "Basic Tee",
-        "price": 26,
-        "color": "purple",
-        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F71Shs5Yi0RL._AC_UL960_QL65_.jpg&f=1&nofb=1&ipt=aba98c3fc5206458201d5ad167bbd7b86aacc83452f6bbe2960d730e43a050a0&ipo=images"
-      },
-      {
-        "id": 9,
-        "name": "Basic Tee",
-        "price": 29,
-        "color": "pink",
-        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.hnMD0B4aKqwtrowmejvrAAHaHa%26pid%3DApi&f=1&ipt=b3fc501d42f607892ce91f17c0f886a51fdcc5b62e7418c7edd6a2e8529f7a50&ipo=images"
-      },
-      {
-        "id": 10,
-        "name": "Basic Tee",
-        "price": 25,
-        "color": "orange",
-        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.wexman.se%2Fstatic%2Fwebimages%2Foriginal%2Forange_tshirt_quick_dry_tee.jpg&f=1&nofb=1&ipt=e8a180afde056b8afb25bb6c4a73e4fe135433e6e264ce475c6ef0dac2b16630&ipo=images"
-      },
-      {
-        "id": 11,
-        "name": "Basic Tee",
-        "price": 25,
-        "color": "brown",
-        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.etsystatic.com%2F23763365%2Fr%2Fil%2Fca5add%2F2878790731%2Fil_1588xN.2878790731_if3k.jpg&f=1&nofb=1&ipt=2d9cb43d293fe09692f059cb0ab30160c77de40c843a7fea2b6e519308ac4d61&ipo=images"
-      },
-      {
-        "id": 12,
-        "name": "Basic Tee",
-        "price": 38,
-        "color": "cyan",
-        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftoppng.com%2Fpublic%2Fuploads%2Fpreview%2Fcyan-t-shirt-1153095893377vjs4qsgn.png&f=1&nofb=1&ipt=a5c475e1e28e3814bd85e30b7ab0d631b31b9be98fc3fc249ce30d90996262df&ipo=images"
-      }
-    ]
-  }
-  
+  "tshirts": [
+    {
+      "id": 1,
+      "name": "Basic Tee",
+      "price": 35,
+      "color": "black",
+      "image": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Basic Tee",
+      "price": 40,
+      "color": "white",
+      "image": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-02.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Basic Tee",
+      "price": 55,
+      "color": "gray",
+      "image": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-03.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Basic Tee",
+      "price": 22,
+      "color": "blue",
+      "image": "https://images.pexels.com/photos/8612790/pexels-photo-8612790.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": 5,
+      "name": "Basic Tee",
+      "price": 28,
+      "color": "red",
+      "image": "https://tailwindui.com/img/ecommerce-images/home-page-03-favorite-03.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Basic Tee",
+      "price": 32,
+      "color": "green",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.sportsshoes.com%2Fproduct%2FN%2FNIK9281%2FNIK9281_1000_1.jpg&f=1&nofb=1&ipt=45e9ae8b3b3d70cccd07c8ae6695f74046df0bcf30d06262cda53b15302e0747&ipo=images"
+    },
+    {
+      "id": 7,
+      "name": "Basic Tee",
+      "price": 40,
+      "color": "yellow",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FI%2F41uMrveOBDL._AC_UL1000_.jpg&f=1&nofb=1&ipt=a6f44c749bcaeb8ba8e6f453951205800e687b39bfa85c36aa304f2712bff5c5&ipo=images"
+    },
+    {
+      "id": 8,
+      "name": "Basic Tee",
+      "price": 26,
+      "color": "purple",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F71Shs5Yi0RL._AC_UL960_QL65_.jpg&f=1&nofb=1&ipt=aba98c3fc5206458201d5ad167bbd7b86aacc83452f6bbe2960d730e43a050a0&ipo=images"
+    },
+    {
+      "id": 9,
+      "name": "Basic Tee",
+      "price": 29,
+      "color": "pink",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.hnMD0B4aKqwtrowmejvrAAHaHa%26pid%3DApi&f=1&ipt=b3fc501d42f607892ce91f17c0f886a51fdcc5b62e7418c7edd6a2e8529f7a50&ipo=images"
+    },
+    {
+      "id": 10,
+      "name": "Basic Tee",
+      "price": 25,
+      "color": "orange",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.wexman.se%2Fstatic%2Fwebimages%2Foriginal%2Forange_tshirt_quick_dry_tee.jpg&f=1&nofb=1&ipt=e8a180afde056b8afb25bb6c4a73e4fe135433e6e264ce475c6ef0dac2b16630&ipo=images"
+    },
+    {
+      "id": 11,
+      "name": "Basic Tee",
+      "price": 25,
+      "color": "brown",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.etsystatic.com%2F23763365%2Fr%2Fil%2Fca5add%2F2878790731%2Fil_1588xN.2878790731_if3k.jpg&f=1&nofb=1&ipt=2d9cb43d293fe09692f059cb0ab30160c77de40c843a7fea2b6e519308ac4d61&ipo=images"
+    },
+    {
+      "id": 12,
+      "name": "Basic Tee",
+      "price": 38,
+      "color": "cyan",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftoppng.com%2Fpublic%2Fuploads%2Fpreview%2Fcyan-t-shirt-1153095893377vjs4qsgn.png&f=1&nofb=1&ipt=a5c475e1e28e3814bd85e30b7ab0d631b31b9be98fc3fc249ce30d90996262df&ipo=images"
+    }
+  ]
+}
